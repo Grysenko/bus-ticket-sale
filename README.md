@@ -1,31 +1,31 @@
-# Bus Ticket Sale
+# Продаж квитків на автобус
 
-Welcome to the **Bus Ticket Sale** project! This project is a website designed to sell bus tickets, providing users with a simple and intuitive interface to purchase tickets for their travel.
+Ласкаво просимо до проекту **Продаж квитків на автобус**! Цей проект — це вебсайт, який дозволяє користувачам купувати квитки на автобус, надаючи простий та інтуїтивно зрозумілий інтерфейс для покупки квитків на поїздки.
 
-## Project Overview
+## Огляд проекту
 
-This website allows users to:
-- View available bus routes.
-- Select desired tickets based on the route, time, and seat availability.
-- Make a purchase through an easy-to-use booking system.
+Цей вебсайт дозволяє користувачам:
+- Переглядати доступні маршрути автобусів.
+- Вибирати бажані квитки на основі маршруту, часу та доступних місць.
+- Оформлювати покупку через зручну систему бронювання.
 
-### Features:
-- Modern and minimalist UI/UX design.
-- Responsive layout for both desktop and mobile devices.
-- Smooth animations and transitions for a pleasant user experience.
-- Backend integration with Express.js to handle requests.
+### Основні функції:
+- Сучасний і мінімалістичний дизайн інтерфейсу.
+- Адаптивний макет для роботи як на десктопах, так і на мобільних пристроях.
+- Плавні анімації та переходи для комфортного користування.
+- Інтеграція з бекендом на Express.js для обробки запитів.
 
-## Tech Stack
+## Технології
 
-- **Frontend**: HTML, CSS, JavaScript (Vanilla JS)
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB (for storing ticket information)
-- **Hosting**: GitHub Pages for frontend, Heroku (or another service) for backend (optional)
+- **Фронтенд**: HTML, CSS, JavaScript (Vanilla JS)
+- **Бекенд**: Node.js, Express.js
+- **База даних**: MongoDB (для зберігання інформації про квитки)
+- **Хостинг**: GitHub Pages для фронтенду, Heroku (або інший сервіс) для бекенду (опційно)
 
-## Installation
+## Встановлення
 
-To run this project locally, follow these steps:
+Щоб запустити цей проект локально, виконайте наступні кроки:
 
-1. **Clone the repository**:
+1. **Клонуйте репозиторій**:
    ```bash
    git clone https://github.com/your-username/bus-ticket-sale.git
